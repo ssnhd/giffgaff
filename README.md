@@ -4,10 +4,18 @@ Giffgaff 成立于 2009 年 11 月 25 日，是一家总部位于英国伦敦的
 
 ## 一、资费
 
-以下截图为在中国使用的资费，查看其他国家资费[点击这里](https://www.giffgaff.com/roaming-charges)。
->注：其中 20p = 20pence = 0.2 英镑
+以下为在中国使用的资费，查看其他国家资费[点击这里](https://www.giffgaff.com/roaming-charges)。
 
-![](https://i.imgur.com/1QjlmTT.png)
+|  类别   | 费用  |
+|  ----  | ----  |
+| 月租  |  0 |
+|  收短信  | 免费 |
+|  发短信       |   0.3 英镑/条   |
+|  接打电话       |   1 英镑/分钟   |
+|     流量    | 0.2 英镑/MB    |
+|   彩信到英国/欧盟手机      |   0.3 英镑/条   |
+|    向其他手机发送彩信     |   0.24 英镑/条   |
+
 
 ## 二、激活
 1. 网页[点击这里]( https://www.giffgaff.com/activate)，输入卡片上的 6 位激活码，点击 **Activate your SIM**。
