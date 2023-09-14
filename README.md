@@ -16,7 +16,7 @@
 
 
 ## 二、激活
-1. 网页[点击这里]( https://www.giffgaff.com/activate)，输入卡片上的 6 位激活码，点击 **Activate your SIM**。
+1. 网页[点击这里]( https://www.giffgaff.com/activate)，输入卡片上的 6 位激活码或背面 13 位序列号，点击 **Activate your SIM**。
 2. 激活验证后输入你常用邮箱，点击 **Next**。
 3. 创建你的密码，点击 **Register**。
 4. 选择是否接受邮件和短信广告，一般选右边的 **No,thanks**，点击 **Continue**。
@@ -32,3 +32,11 @@
 1. 发短信、电话、上网。（资费见上文）
 2. 激活 FaceTime 与 iMessage 服务。如不需要 iOS 提供的 FaceTime 与 iMessage 服务，请在系统弹出对话框时点击取消按钮。
 3. 手动拒接任何来电。由于 Giffgaff 默认开通了语音信箱功能，拒接来电后将会自动接入语音信箱产生费用，如需要避免，手机拨号输入 `##002#` 并拨打，即可关闭语音信箱。
+
+## 常见问题
+1. 【查号码】编辑短信 Number 发送至 `2020`。
+2. 【查余额】手机拨打 `*100#`，自动弹出余额界面。
+3. 【是否支持挑选号码】不可以，号码随机分配。
+4. 【激活后可以更换号码吗】可以，每个账号有两次机会更换号码，点击[这里](https://www.giffgaff.com/auth/login?redirect=%2Fprofile%2Fdetails%2Fgetnumber)申请更换.
+5. 【在中国能长期漫游吗】目前用户协议未写明是否可以长期在境外漫游，不过不少内地用户长期漫游未被限制，但后续官方会限制也说不准。
+6. 【无法登录 App 或网站】如图提示 “Oops. Sorry, something went wrong on our side.Try again in a few minutes”，无论是切换是线路还是重装 app 均无解，可以用英国 IP 登录即可。若使用英国 IP 后还是无法登录，可以使用[特定登录入口](https://id.giffgaff.com/login?redirect=auth)（限制网页）。
