@@ -40,3 +40,7 @@
 4. 【激活后可以更换号码吗】可以，每个账号有两次机会更换号码，点击[这里](https://www.giffgaff.com/auth/login?redirect=%2Fprofile%2Fdetails%2Fgetnumber)申请更换.
 5. 【在中国能长期漫游吗】目前用户协议未写明是否可以长期在境外漫游，不过不少内地用户长期漫游未被限制，但后续官方会限制也说不准。
 6. 【无法登录 App 或网站】如图提示 “Oops. Sorry, something went wrong on our side.Try again in a few minutes”，无论是切换是线路还是重装 app 均无解，可以用英国 IP 登录即可。若使用英国 IP 后还是无法登录，可以使用[特定登录入口](https://id.giffgaff.com/login?redirect=auth)（限制网页）。
+
+## 声明
+
+教程均针对旅游使用，请遵守当地法律法规，违规与本帖无关。
