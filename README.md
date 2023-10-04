@@ -15,7 +15,7 @@
 |    彩信到其他地区手机     |   0.24 英镑/条   |
 
 
-## 二、激活
+## 二、激活（图文教程[点击这里](https://github.com/ssnhd/Giffgaff/wiki/激活（图文教程）)）
 1. 网页[点击这里]( https://www.giffgaff.com/activate)，输入卡片上的 6 位激活码或背面 13 位序列号，点击 **Activate your SIM**。
 2. 激活验证后输入你常用邮箱，点击 **Next**。
 3. 创建你的密码，点击 **Register**。
