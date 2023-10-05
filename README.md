@@ -53,3 +53,6 @@
 ## 声明
 
 教程均针对旅游使用，请遵守当地法律法规，违规与本帖无关。
+
+## 免费获得 Giffgaff 卡
+点击[这里](https://www.giffgaff.com/orders/affiliate/omzli76)，输入收货地址（国家选中国，地址用英文或汉语拼音），然后点击 **Order your free SiM** 等待约 15 天你将收到快递。
