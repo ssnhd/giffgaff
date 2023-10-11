@@ -40,6 +40,7 @@
 3. 打开 Giffgaff App，【Account】→【SIM】→【Replace my SIM】→【Switch to a new eSIM】
 4. 勾选【I understand and accept this】→ 点击【Start the switch】
 5. 输入收到的 6 位数验证码，点击【Confirm】
+6. 回到主页【Home】，点击【Install eSIM】，按提示操作，最后出现【We're activating your eSIM】说明正在激活
 
 ## 常见问题
 
