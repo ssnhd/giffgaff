@@ -33,6 +33,13 @@
 2. 输入号码（号码前面有 0）和密码登录
 3. 点击页面里的 **Add credit** 选择金额进行充值
 
+## 获取 eSIM
+
+1. 检查您的手机是否支持 eSIM
+2. 确保您运行的是 Giffgaff App 版本 12.13.0-v337 或更高版本
+3. 打开 Giffgaff App，Account → SIM → Replace my SIM → Switch to a new eSIM
+4. 按照其中的步骤操作，您将立即启动并运行 eSIM
+
 ## 常见问题
 
 >**空白卡里有话费吗？**\
