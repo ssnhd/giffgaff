@@ -35,10 +35,11 @@
 
 ## 获取 eSIM
 
-1. 检查您的手机是否支持 eSIM
-2. 确保您运行的是 Giffgaff App 版本 12.13.0-v337 或更高版本
-3. 打开 Giffgaff App，Account → SIM → Replace my SIM → Switch to a new eSIM
-4. 按照其中的步骤操作，您将立即启动并运行 eSIM
+1. 检查手机是否支持 eSIM
+2. Giffgaff App 版本 12.13.0-v337 或更高版本
+3. 打开 Giffgaff App，【Account】→【SIM】→【Replace my SIM】→【Switch to a new eSIM】
+4. 勾选【I understand and accept this】→ 点击【Start the switch】
+5. 输入收到的 6 位数验证码，点击【Confirm】
 
 ## 常见问题
 
