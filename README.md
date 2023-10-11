@@ -33,14 +33,14 @@
 2. 输入号码（号码前面有 0）和密码登录
 3. 点击页面里的 **Add credit** 选择金额进行充值
 
-## 获取 eSIM
+## 转为 eSIM
 
 1. 检查手机是否支持 eSIM
 2. Giffgaff App 版本 12.13.0-v337 或更高版本
 3. 打开 Giffgaff App，【Account】→【SIM】→【Replace my SIM】→【Switch to a new eSIM】
 4. 勾选【I understand and accept this】→ 点击【Start the switch】
 5. 输入收到的 6 位数验证码，点击【Confirm】
-6. 回到主页【Home】，点击【Install eSIM】，按提示操作，最后出现【We're activating your eSIM】说明正在激活
+6. 回到主页【Home】，点击【Install eSIM】，按提示操作，最后出现【We're activating your eSIM】，激活时间快的话约 30 分钟，慢的话 24 小时。
 
 ## 常见问题
 
