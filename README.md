@@ -1,89 +1,123 @@
-# 英国手机卡 Giffgaff 激活与使用指南
+# 英国实体 SIM 卡 giffgaff 激活使用教程
+
+购买：https://t.me/GVStore
 
 ## 资费
 
-以下为在中国使用的资费，查看其他国家资费[点击这里](https://www.giffgaff.com/roaming-charges)。
-
-|  类别   | 费用  |
+| 月租  |  免费 |
 |  ----  | ----  |
-| 月租  |  0 |
-|  收短信  | 免费 |
-|  发短信       |   0.3 英镑/条   |
-|  接打电话       |   1 英镑/分钟   |
-|     流量    | 0.2 英镑/MB    |
-|   彩信到英国/欧盟手机      |   0.3 英镑/条   |
-|    彩信到其他地区手机     |   0.24 英镑/条   |
+|  **收短信**  | **免费** |
+|  **发短信**       |   **0.3 英镑／条**   |
+|  **接打电话**       |   **1 英镑／分钟**   |
+|     **流量**    | **0.2 英镑／MB**    |
 
 
 ## 激活
+1. 打开[官网](https://www.giffgaff.com/activate)，输入 SIM 卡上 6 位激活码或 13 位序列号，点击【Activate your SIM】
+2. 输入你的邮箱，点击【Next】
+3. 创建密码，点击【Register】
+4. 选择是否接受邮件和短信广告，不需要的话选择右边的【No,thanks】，点击 【Continue】
+5. 网页下拉至底部选择【Pay as you go】，点击【Continue】
+6. 选择充值话费金额（至少 10 英镑），点击【Pay now】
+7. 输入地址（随便填）和支持美元的实体信用卡（如果没卡联系客服代充值激活），勾选同意，点击【Activate your SIM】
+8. 付款成功后，页面上出现号码（下图），插卡使用
 
-**图文教程点击[这里](https://github.com/ssnhd/Giffgaff/wiki/激活（图文教程）)**
+>注：➊号码、密码和会员名要牢记，➋号码 `079XXXXX557` 前面的 `0` 登陆时用到，日常是区号 + 号码，示例 `+44 79XXXXX557`
 
-1. 网页打开[官网激活页面](https://www.giffgaff.com/activate)，输入 SIM 卡上 6 位激活码或背面 13 位序列号，点击 **Activate your SIM**
-2. 输入你的邮箱，点击 **Next**
-3. 创建密码，点击 **Register**
-4. 选择是否接受邮件和短信广告，不需要的话选择右边的【No,thanks】，点击 **Continue**
-5. 选择套餐（如果暂时没有套餐需求，将网页拉至最下方），选择【Pay as you go】，点击 **Continue**
-6. 激活首次需要充值至少 10 英镑，选择金额，点击 **Pay now**。
-7. 输入信用卡（支持 VISA / MasterCard 的借记卡或信用卡）和地址（随便填），勾选同意，点击 **Activate your SIM**
-8. 付款成功后，页面上出现分配给你的电话号码（英国区号 `+44`，电话号码和会员名要牢记，将来登录官网会用到）
+![](https://i.imgur.com/Q9cZKmj.png)
 
 ## 充值
-1. 打开[官网](https://www.giffgaff.com)，点击右上角 **Log in**
-2. 输入号码（号码前面有 0）和密码登录
-3. 点击页面里的 **Add credit** 选择金额进行充值
 
-## 转为 eSIM
+[官网](https://www.giffgaff.com)或 giffgaff App 登录后，找到 **Add credit**，按提示输入支持美元的实体信用卡（例如 VISA）信息进行充值。
 
-1. 检查手机是否支持 eSIM
-2. Giffgaff App 版本 12.13.0-v337 或更高版本
-3. 打开 Giffgaff App，【Account】→【SIM】→【Replace my SIM】→【Switch to a new eSIM】
-4. 勾选【I understand and accept this】→ 点击【Start the switch】
-5. 输入收到的 6 位数验证码，点击【Confirm】
-6. 回到主页【Home】，点击【Install eSIM】，按提示操作，最后出现【We're activating your eSIM】，激活时间快的话约 30 分钟，慢的话 24 小时。
+## 保号
+每 6 个月余额发生变化卡有效期延迟 6 个月，即每 6 个月内执行以下任一操作：
 
-## 常见问题
+- 进行一次充值
+- 拨打一个电话
+- 发送一条短信（推荐）
+- 使用移动数据连一次互联网
 
-**空白卡里有话费吗？**\
-没有话费，自助充值。
+## 默认有话费吗？
+新卡未激活默认没有话费，激活时最低充值 10 英镑话费。
 
-**如何保号，成本多少？**\
-如果 SIM 卡在过去 6 个月内未使用，则该卡将被停用。要停止停用，请至少每 6 个月执行一次以下任一操作：
-- 至少拨打一个电话、发送短信或彩信（这不包括拨打紧急服务或会员服务）
-- 使用移动数据至少连一次互联网
-- 至少进行一次充值
+## 无法登录
+1. 登录官网或 App 电话号码用 `07xxxxxxx` 格式；
+2. 其他平台电话号码格式用 `7xxxxxxx`，国际区号根据需要选择 UK（英国）或添加 `+44` 为前缀；
+3. 发送短信到 giffgaff 用 `0044+7xxxxxxx` 的格式，注意 44 后面去掉 0。
 
-**手机号码正确，无法登录官网或 App 提示号码格式不对**\
-①登录官网或 App 电话号码用 `07xxxxxxx` 格式；\
-②其他平台电话号码格式用 `7xxxxxxx`，国际区号根据需要选择 UK（英国）或添加 `+44` 为前缀；\
-③发送短信到 Giffgaff 用 `0044+7xxxxxxx` 的格式，注意 44 后面去掉 0。
+## 发短信、打电话格式
 
-**为什么发不出短信，打不出电话？**\
-①手机设置里取消【运营商自动选择】，改为手动切换信号到中国移动，并重启手机。\
-②发送短信及呼出电话格式：0086+中国电话，海外区号+海外手机号码，例如英国是 `0044+xxxxxxxx`。\
-③经众多卡友实践，即便切换信号到中国移动，如果对方是中国移动的手机号码，由于国内防电信欺诈的原因，通常收不到你发的短信。目前联通及电信的手机号码，还是能接收 Giffgaff 发出的国际短信。
+例如发给中国号码 `138XXXX8888`，不建议与中国号码互联，因为有概率被运营商风控停号，还需要到营业厅解锁，测试可以找个海外号码。
 
-**插卡后没信号**\
+- 发短信：格式为 `0086138XXXX8888`
+- 打电话：格式为`+86138XXXX8888`
+
+## 打电话提示“设置了限制”
+手机设置里关闭【运营商自动选择】，手动选择中国移动。
+
+注：经众多卡友实践，即便切换信号到中国移动，如果对方是中国移动的手机号码，由于国内防电信欺诈的原因，通常收不到你发的短信。目前联通及电信的手机号码，还是能接收 giffgaff 发出的国际短信。
+
+## 无法发短信/拨打电话
+号码格式不正确、确保余额充足、确保有信号。
+
+## 插卡后没信号
 插卡后，手机会读取 SIM 卡数据并上传到运营商做漫游登记，由于海外运营商与国内运营商之间的漫游对接有很多环节和验证过程，等待 1-5 分钟。
 
-**无法上网**\
+## 无法上网
 打开手机对应此卡的移动数据/蜂窝数据开关，并开启漫游。
 
-**可以在国内长期漫游？**\
-可以，只要确保有话费，每半年完成保号就可以长期使用。
+## iPhone 注意事项
+插卡开机后，建议不要点击接受开通 iMessage/Facetime 功能，因为一旦确认苹果会给后台发出一条短信扣费 0.3 英磅。
 
-**iPhone 使用有什么注意事项？**\
-插卡开机后，建议不要点击接受开通 iMessage/Facetime 功能，因为一旦确认，苹果系统会给后台发出一条短信，因此会被扣费 0.3 英磅。
+## 查余额
+首选登录官网或 giffgaff App 查询，也可以拨打 `*100#` 查询余额。
 
-**怎么查询余额？怎么验证电话功能是否开通？**\
-首选登录官网或 Giffgaff App 查询，也可以拨打 `*100#` 查询余额。
+## 换号码
+号码是在您首次充值后，系统随机分配，后续可以到官网申请更换 2 次（也是随机分配），点击[这里](https://www.giffgaff.com/auth/login?redirect=%2Fprofile%2Fdetails%2Fgetnumber)申请更换。
 
-**电话卡可以挑选号码吗？**\
-号码是在您首次充值后，系统随机分配，后续可以到官网申请更换 2 次（也是随机分配），点击[这里](https://www.giffgaff.com/auth/login?redirect=%2Fprofile%2Fdetails%2Fgetnumber)申请更换.
+官方指引：[点击这里](https://www.giffgaff.com/profile/details/getnumber)
 
-**关闭语音信箱**\
-由于 Giffgaff 默认开通了语音信箱功能，拒接来电后将会自动接入语音信箱产生费用，如需要避免，手机拨号输入 `##002#` 并拨打，即可关闭语音信箱。
+## eSIM
 
-## 声明
+**需要满足以下条件**：
+1. 支持 eSIM 的手机（例如美版 iPhone），有锁机不支持，2018-2020 年期间发布的某些手机不支持，建议用 2021 年及之后的手机，[点击查看哪些手机支持](https://www.giffgaff.com/help/articles/can-i-use-an-esim-in-my-current-phone)
+2. 手机安装 giffgaff App
+3. 手机连接 Wi-Fi
 
-教程均针对旅游使用，请遵守当地法律法规，违规与本帖无关。
+**转 eSIM 步骤**：
+1. 打开 giffgaff App 并登录，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**
+2. 会看到一个提示，请保持稳定的 Wi-Fi 连接（最好使用英国 IP）
+3. 勾选 **I understand and accept this** > 点击 **Start the switch**
+4. 输入短信收到的 6 位数验证码，点击 **Confirm**
+5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，等待约 5 分钟-24 小时，获得信号即可使用，同时实体卡自动失效
+
+注：第五步点击 **Install eSIM** 如果提示 **eSIM setup isn't possible right now.Please , try again later.** 可以尝试重启 App，重新拔卡插卡再试。
+
+官方指引：[点击这里](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)
+
+## eSIM 转实体卡
+
+当然可以，你只需通过 giffgaff App 按照以下步骤操作即可：
+1. 准备一张未激活的 giffgaff 实体 SIM 卡
+2. 前往 giffgaff App 并登录
+3. **Account** > **SIM** > **Replace my SIM** > **Switch to a new physical SIM**
+4. 按照步骤重新开始使用实体 SIM 卡
+
+官方指引：[点击这里](https://www.giffgaff.com/help/articles/can-i-switch-back-to-a-physical-sim-card-from-an-esim)
+
+## 显示“激活中…”
+添加卡之后一直「激活中……」，收不到信号。
+
+答：eSIM 转换会在 24 小时之内完成，如果在工作时间之外会出现无法添加/一直转圈的情况（工作时间：英国时间 4:30AM-9:30PM，夏季中国时间 11:30PM-4:30AM，冬季中国时间 12:30PM-5:30AM）这样就需要你稍后再试。
+
+## 换手机，还可以用 eSIM 吗？
+是的可以，按照以下步骤即可将你的 eSIM 移动到新手机。
+1. 检查新手机是否支持 eSIM
+2. 新手机下载并登录 giffgaff 应用程序
+3. **Account** > **SIM** > **Replace my SIM** > **Switch to new eSIM**
+4. 最后，只需要简单的步骤将你的 eSIM 切换到新手机
+
+官方指引：[点击这里](https://www.giffgaff.com/help/articles/can-i-still-use-my-esim-if-i-switch-to-a-different-phone)
+
+友情提示：请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
