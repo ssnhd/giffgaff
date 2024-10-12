@@ -79,6 +79,10 @@
 
 官方指引：[点击这里](https://www.giffgaff.com/profile/details/getnumber)
 
+## 更改密码
+
+官方指引：https://www.giffgaff.com/auth/reset-password
+
 ## eSIM
 
 **需要满足以下条件**：
