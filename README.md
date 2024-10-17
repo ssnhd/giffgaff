@@ -14,20 +14,20 @@
 
 官方指引：https://www.giffgaff.com/roaming-charges
 
-
 ## 激活
+激活时需充值至少 10 英镑话费（使用支持美元的实体信用卡，例如 VISA），没有的话联系客服代激活。
+
 1. 打开[官网](https://www.giffgaff.com/activate)，输入 SIM 卡上 6 位激活码或 13 位序列号，点击【Activate your SIM】
 2. 输入你的邮箱，点击【Next】
 3. 创建密码，点击【Register】
 4. 选择是否接受邮件和短信广告，不需要的话选择右边的【No,thanks】，点击 【Continue】
 5. 网页下拉至底部选择【Pay as you go】，点击【Continue】
 6. 选择充值话费金额（至少 10 英镑），点击【Pay now】
-7. 输入地址（随便填）和支持美元的实体信用卡（如果没卡联系客服代充值激活），勾选同意，点击【Activate your SIM】
-8. 付款成功后，页面上出现号码（下图），插卡使用
-
-【注】号码 `088xxxxx888` 前面的 `0` 登陆官网或 app 时用到，日常使用去掉 `0`，示例 `+44 88xxxxx888`
-
+7. 输入地址（随便填）和信用卡信息，勾选同意，点击【Activate your SIM】
+8. 等待付款成功后，页面上出现号码（下图），插卡使用
 ![](https://i.imgur.com/Q9cZKmj.png)
+
+【注】号码前面的 `0` 登陆时用到，日常使用去掉 `0`，示例 `+44 88xxxxx888`
 
 ## 充值
 
