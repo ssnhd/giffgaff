@@ -22,7 +22,7 @@
 3. 创建密码，点击【Register】
 4. 选择是否接受邮件和短信广告，不需要的话选择右边的【No,thanks】，点击 【Continue】
 5. 网页下拉至底部选择【Pay as you go】，点击【Continue】
-6. 选择充值话费金额（至少 10 英镑），点击【Pay now】
+6. 选择 10 英镑，点击【Pay now】
 7. 输入地址（随便填）和信用卡信息，勾选同意，点击【Activate your SIM】
 8. 等待付款成功后，页面上出现号码（下图），插卡等待有信号即可使用
 ![](https://i.imgur.com/Q9cZKmj.png)
