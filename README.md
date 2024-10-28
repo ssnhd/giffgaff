@@ -15,7 +15,7 @@
 官方指引：https://www.giffgaff.com/roaming-charges
 
 ## 激活
-激活时需充值 10 英镑话费（使用支持美元的实体信用卡，例如 VISA），没有的话联系客服代激活。
+激活时需充值 10 英镑话费（双币/全币实体信用卡，例如卡上有 VISA 字样），没有的话联系客服代激活。
 
 1. 打开[官网](https://www.giffgaff.com/activate)，输入 SIM 卡上 6 位激活码或 13 位序列号，点击【Activate your SIM】
 2. 输入你的邮箱，点击【Next】
