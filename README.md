@@ -82,7 +82,7 @@
 
 官方指引：[点击这里](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)
 
-## eSIM 转实体卡
+### eSIM 转实体卡
 
 当然可以，你只需通过 giffgaff App 按照以下步骤操作即可：
 1. 准备一张未激活的 giffgaff 实体 SIM 卡
@@ -92,7 +92,7 @@
 
 官方指引：[点击这里](https://www.giffgaff.com/help/articles/can-i-switch-back-to-a-physical-sim-card-from-an-esim)
 
-## 显示“激活中…”
+**显示“激活中…**
 添加卡之后一直「激活中……」，收不到信号。
 
 答：eSIM 转换会在 24 小时之内完成，如果在工作时间之外会出现无法添加/一直转圈的情况（工作时间：英国时间 4:30AM-9:30PM，夏季中国时间 11:30PM-4:30AM，冬季中国时间 12:30PM-5:30AM）这样就需要你稍后再试。
