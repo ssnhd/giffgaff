@@ -75,7 +75,7 @@
 1. 打开 giffgaff App 并登录，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**
 2. 会看到一个提示，请保持稳定的 Wi-Fi 连接
 3. 勾选 **I understand and accept this** > 点击 **Start the switch**
-4. 输入短信收到的 6 位数验证码，点击 **Confirm**
+4. 输入短信收到的 6 位数验证码（或者选择邮箱接收验证码），点击 **Confirm**
 5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，等待约 5 分钟-24 小时，获得信号即可使用，同时实体卡自动失效
 
 注：第五步点击 **Install eSIM** 如果提示 **eSIM setup isn't possible right now.Please , try again later.** 可以尝试重启 App，重新拔卡插卡再试。
