@@ -53,7 +53,7 @@
 - 打电话格式：`+86138xxxx8888` （长安拨号键 `0` 出现 `+`）
 
 ## 查余额
-首选登录官网或 giffgaff App 查询，也可以拨打 `*100#` 查询余额。
+登录官网或 giffgaff App 查询
 
 ## 换号码
 号码是在您首次充值后，系统随机分配，后续可以到官网申请更换 2 次（也是随机分配），点击[这里](https://www.giffgaff.com/auth/login?redirect=%2Fprofile%2Fdetails%2Fgetnumber)申请更换。
