@@ -63,9 +63,10 @@
 
 官方指引：[点击这里](https://www.giffgaff.com/profile/details/getnumber)
 
-## 更改密码
+## 更改密码 邮箱
 
-官方指引：https://www.giffgaff.com/auth/reset-password
+- 更改密码：https://www.giffgaff.com/auth/reset-password
+- 更改邮箱：https://www.giffgaff.com/profile/details 找到【个人详细信息】里面有更改邮箱
 
 ## eSIM
 
