@@ -41,8 +41,6 @@
 ## 常见问题
 - 查询本机号码：编辑短信内容 `NUMBER` 到 `2020`
 - 查询话费余额：拨号界面 输入 `*100#`
-- 关闭语音信箱：拨号界面 输入 `##002#`
-- 打开语音信箱：拨号界面 输入 `**6144310*20#`
 - 更改密码：https://www.giffgaff.com/auth/reset-password
 - 更改邮箱等资料：https://www.giffgaff.com/profile/details
 - 续费充值：https://www.giffgaff.com/top-up
