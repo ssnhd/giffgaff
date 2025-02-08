@@ -48,6 +48,7 @@
 - 更换号码：https://www.giffgaff.com/profile/details/getnumber （官方支持更换 2 次，号码随机分配）
 - 换手机，转移 eSIM：https://www.giffgaff.com/help/articles/can-i-still-use-my-esim-if-i-switch-to-a-different-phone
 - eSIM 转到实体卡：https://www.giffgaff.com/help/articles/can-i-switch-back-to-a-physical-sim-card-from-an-esim
+- SIM 卡损坏或丢了，更换/补 SIM 卡：https://www.giffgaff.com/profile/details#simswap
 
 ## eSIM
 ### 满足以下条件
