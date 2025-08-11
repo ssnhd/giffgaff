@@ -133,3 +133,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，需满足：
 ## 官方客服
 
 <https://www.giffgaff.com/boiler-plate/contact>
+
+## 友情提示
+
+网友总结 Telegram 常见问题及解决方案：https://github.com/ssnhd/telegram
