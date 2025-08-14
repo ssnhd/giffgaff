@@ -14,15 +14,14 @@
 ![](https://i.imgur.com/2MvepgL.jpg)
 2. 输入你的邮箱，点击【Next】
 3. 创建密码，点击【Register】
-4. 不接收广告，选择【No,thanks】，点击 【Continue】
+4. 选择【No,thanks】，点击 【Continue】
 5. 网页下拉至底部选择【Pay as you go】，点击【Continue】
 6. 选择 10 英镑，点击【Pay now】
 7. 输入地址（随便填），点击【Continue】
 8. 输入信用卡信息，勾选【I understand and agree】点击【Place order】，付款后会出现号码和余额（如下图），插卡等待有信号即可使用。
 
-`注 1：部分人可能需要等待约 20 分钟才会激活好。`\
-`注 2：号码前面的 0 登录官网时才需要，日常将其去掉，示例：+4479xxxxx557（英国区号 +44）`
-
+注 1：部分人可能需要等待约 20 分钟才会激活好。\
+注 2：号码前面的 0 登录官网时才需要，日常将其去掉，示例：+4479xxxxx557（英国区号 +44）。
 ![](https://i.imgur.com/kxlZpJk.png)
 
 ## 资费
