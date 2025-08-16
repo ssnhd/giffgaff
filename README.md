@@ -22,7 +22,7 @@
 7. 输入地址（随便填），点击【Continue】
 8. 输入信用卡信息，勾选【I understand and agree】点击【Place order】，付款后会出现号码和余额（下图，部分人可能要等待 20-30 分钟才会激活好），插卡等待有信号即可。
 
-注：号码前面的 0 登录官网/App时加上，日常使用去掉，示例：+4479xxxxx557（英国区号 +44）。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)号码前面的 0 登录官网或 App 时加上，日常去掉，示例：+4479xxxxx557（英国区号 +44）。
 ![](https://i.imgur.com/kxlZpJk.png)
 
 ---
@@ -36,27 +36,30 @@
 |  **发短信**       |   0.3 英镑／条 |
 |  **接打电话**       |   1 英镑／分钟 |
 | **流量**    | 0.2 英镑／MB   |
-|**官网资费介绍**|[点击这里](https://www.giffgaff.com/roaming-charges)|
+
+官网资费介绍：https://www.giffgaff.com/roaming-charges
 
 ---
 
 ## 保号
-连续 6 个月未使用将被停用。为了避免停用，请每隔 6 个月至少执行以下任一操作一次：
+
+连续 6 个月未使用将被停用。所以每隔 6 个月内至少执行以下任一操作一次：
 
 - 至少发送一条短信至其他号码（推荐）
 - 至少拨打一次电话（不包括拨打紧急服务和官方客服热线）
 - 至少使用一次移动数据连接上网
 - 至少进行一次话费充值
 
-⚠️注：可以联系全球任何号码，但不建议与中国号联系，因反诈原因中国号有概率被运营商风控。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)不建议与中国手机号联系，因反诈原因中国号有概率被运营商风控。
 
 ---
 
 ## 短信电话格式
 
-示例：英国号码 `79xxxxxx88`
-- 发短信：号码前加 `00`+`国家区号`，示例 `004479xxxxxx88`
-- 打电话：号码前 `+`+`国家区号`，示例 `+4479xxxxxx88` （长安拨号键 `0` 出现 `+`）
+例如你朋友的英国号码是： 88xxxxxx88
+
+- 给他发短信：号码前加 `00`+`国家区号`，示例 004488xxxxxx88
+- 给他打电话：号码前加 `+`+`国家区号`，示例 +4488xxxxxx88 （长安拨号键 `0` 出现 `+`）
 
 ---
 
@@ -68,27 +71,28 @@
 
 ## 余额
 
-登录官网 <https://www.giffgaff.com/> 或 giffgaff App。
+登录官网 https://www.giffgaff.com/ 或 giffgaff App 查看。
 
 ---
 
 ## 充值
 
 1. 打开 <https://www.giffgaff.com/> 并登录，点击【Add credit】；
-2. 选择金额和支付方式（信用卡或 PayPal），点击【Continue】按提示操作。
+2. 选择金额和支付方式，点击【Continue】按提示操作。
+
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)用支持美元的信用卡（卡上有 VISA 或 Master 标识）进行充值。若无，联系客服代充值。
 
 ---
 
 ## eSIM
 
-eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，需满足：
+eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
+
 1. 手机支持 eSIM，例如美版无锁 iPhone、Pixel
 2. 手机安装 giffgaff App
 3. 连接 Wi-Fi
 
----
-
-**转 eSIM 步骤：**
+**转 eSIM 步骤**：
 
 1. 打开 giffgaff App 并登录，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**
 2. 会看到一个提示，请保持稳定的 Wi-Fi 连接
@@ -100,16 +104,16 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，需满足：
 
 ---
 
-## 从 eSIM 切换回实体 SIM
+## 转回实体 SIM
 
-1. 首先，您需要一张全新的、未激活的 giffgaff SIM 卡。您可以[在这里](https://t.me/GVStore)免费订购一张。
+1. 需要一张未激活 giffgaff SIM 卡。可以[在这里](https://t.me/GVStore)订购一张
 2. 拿到 SIM 卡后，前往 giffgaff 应用或网站并登录
-3. 请按照以下步骤更换您的 SIM 卡。您可以：
-    - 在应用程序上：tap on Account > SIM > Replace my SIM > Switch to a new physical SIM. 
-    - 在网站上：pop over to My profile and settings > Replace my SIM
-4. 按照提示，操作即可再次使用实体 SIM 卡
+3. 请按照以下步骤更换 SIM 卡
+    - 在 App 上：tap on Account > SIM > Replace my SIM > Switch to a new physical SIM. 
+    - 在网页上：pop over to My profile and settings > Replace my SIM
+4. 按照提示操作即可再次使用实体 SIM 卡
 
-重要提示：您只能在中国时间 11:30 – 次日凌晨 4:30 之间切换到 eSIM。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)只能在中国时间 11:30 – 次日凌晨 4:30 之间切换到 eSIM。
 
 官网说明：<https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim>
 
@@ -117,13 +121,13 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，需满足：
 
 ## 更改号码
 
-若您对激活时系统分配的号码不满意，或该号码有使用记录，您可以选择更换为新号码（依旧是随机分配）。
+对激活时系统分配的号码不满意，或该号码有使用记录，可以选择更换为新号码（依旧是随机分配）。
 
 1. 打开 <https://www.giffgaff.com/profile/details/getnumber> 点击【Get a new giffgaff number】
 2. 输入密码，再点击【Change my number】
 3. 系统会跳转至【个人信息与设置】界面，等待显示新号码。
 
-注意事项：
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)
 
 1. 中国时间深夜 4:30 至上午 11:30 期间不可以更换
 2. 新的号码和余额最多需要 4 个小时显示到账户中
@@ -162,6 +166,6 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，需满足：
 
 ---
 
-## 友情提示
+## 关于 TG
 
-网友总结 Telegram 常见问题及解决方案：https://github.com/ssnhd/telegram
+延伸：网友总结 Telegram 常见问题及解决方案：https://github.com/ssnhd/telegram
