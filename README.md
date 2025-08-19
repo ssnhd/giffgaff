@@ -8,19 +8,19 @@
 
 ## 激活
 
-①激活需充值 10 英镑话费，仅发短信保号可用超 16 年。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，若无，请联系[客服](https://t.me/GVStore)代激活充值。
+①激活需充 10 英镑话费，发短信保号可用超 16 年。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如果没有，需联系客服[客服](https://t.me/GVStore)代激活。
 
-②激活后官方随机分配号码，若对号码不满意有 2 次更换号码机会（见下方[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)）。
+②激活后官方随机分配号码，如对号码不满意可更改（见下方[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)）。
 
-1. 打开 <https://www.giffgaff.com/activate> ，输入卡片上 Your Activation Code 的 6 位激活码，点击【Activate your SIM】
+1. 打开 <https://www.giffgaff.com/activate> ，输入卡上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**
 ![](https://i.imgur.com/2MvepgL.jpg)
-2. 输入你的邮箱，点击【Next】
-3. 创建密码，点击【Register】
-4. 选择【No,thanks】，点击 【Continue】
-5. 网页下拉至底部选择【Pay as you go】，点击【Continue】
-6. 选择 10 英镑，点击【Pay now】
-7. 输入地址（随便填），点击【Continue】
-8. 输入信用卡信息，勾选【I understand and agree】点击【Place order】，付款后会出现号码和余额（下图，部分人可能要等待 20-30 分钟才会激活好），插卡等待有信号即可。
+2. 输入你的邮箱，点击 Next**
+3. 创建密码，点击 **Register**
+4. 选择 **No,thanks**，点击 **Continue**
+5. 网页下拉至底部选择 **Pay as you go**，点击 **Continue**
+6. 选择 10 英镑，点击 **Pay now**
+7. 输入地址（随意），点击 **Continue**
+8. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**，付款后会出现号码和余额（下图，部分人可能要等待 20-30 分钟才会激活好），插卡等待有信号即可。
 
 ![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)号码前面的 0 登录官网或 App 时加上，日常去掉，示例：+4479xxxxx557（英国区号 +44）。
 ![](https://i.imgur.com/kxlZpJk.png)
@@ -34,9 +34,10 @@
 | **月租**  |  免费 |
 |  **收短信**  | 免费 |
 |  **发短信**       |   0.3 英镑／条 |
-|  **接打电话**       |   1 英镑／分钟 |
+|  **接电话**       |   1 英镑／分钟 |
+|  **打电话**       |   1 英镑／分钟 |
 | **流量**    | 0.2 英镑／MB   |
-|**流量套餐（App 中订购）** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
+|**流量套餐（在 App 中订购）** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
 
 官网资费介绍：https://www.giffgaff.com/roaming-charges
 
@@ -44,7 +45,7 @@
 
 ## 保号
 
-连续 6 个月未使用将被停用。所以每隔 6 个月内至少执行以下任一操作一次：
+每隔 6 个月内至少执行以下任一操作一次：
 
 - 至少发送一条短信至其他号码（推荐）
 - 至少拨打一次电话（不包括拨打紧急服务和官方客服热线）
@@ -55,7 +56,7 @@
 
 ---
 
-## 短信电话格式
+## 短信、电话格式
 
 例如你朋友的英国号码是： 88xxxxxx88
 
@@ -66,7 +67,7 @@
 
 ## 打电话提示“设置了限制”
 
-手机设置里关闭【运营商自动选择】，手动选择中国移动。
+手机设置里关闭运营商自动选择，手动选择中国移动。
 
 ---
 
@@ -78,8 +79,8 @@
 
 ## 充值
 
-1. 打开 <https://www.giffgaff.com/> 并登录，点击【Add credit】；
-2. 选择金额和支付方式，点击【Continue】按提示操作。
+1. 打开 <https://www.giffgaff.com/> 并登录，点击 **Add credit**
+2. 选择金额和支付方式，点击 **Continue** 按提示操作
 
 ![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)用支持美元的信用卡（卡上有 VISA 或 Master 标识）进行充值。若无，联系客服代充值。
 
@@ -122,18 +123,18 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 ## 更改号码
 
-对激活时系统分配的号码不满意，或该号码有使用记录，可以选择更换为新号码（依旧是随机分配）。
+如对系统分配的号码不满意，或该号码有使用记录，可以选择更换号码（依旧是随机分配）。
 
-1. 打开 <https://www.giffgaff.com/profile/details/getnumber> 点击【Get a new giffgaff number】
-2. 输入密码，再点击【Change my number】
-3. 系统会跳转至【个人信息与设置】界面，等待显示新号码。
+1. 打开 <https://www.giffgaff.com/profile/details/getnumber> 点击 **Get a new giffgaff number**
+2. 输入密码，再点击 **Change my number**
+3. 系统会跳转至个人信息与设置界面，等待显示新号码。
 
 ![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)
 
 1. 中国时间深夜 4:30 至上午 11:30 期间不可以更换
 2. 新的号码和余额最多需要 4 个小时显示到账户中
 3. 全程使用 Wi-Fi
-4. 每个账户支持更换 2 次号码，第二次需 24 小时后。
+4. 每个账户支持更换 2 次号码，第二次需 24 小时后
 
 ---
 
