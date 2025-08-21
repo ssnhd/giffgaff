@@ -8,7 +8,7 @@
 
 ## 激活
 
-①激活需充 10 英镑话费，发短信保号可用超 16 年。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如果没有，需联系客服[客服](https://t.me/GVStore)代激活。
+①激活需充 10 英镑话费，发短信保号可用超 16 年。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如果没有，请联系[客服](https://t.me/GVStore)代激活。
 
 ②激活后官方随机分配号码，如对号码不满意可更改（见下方[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)）。
 
