@@ -12,7 +12,7 @@
 
 ②激活后官方随机分配号码，如对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
 
-1. 打开 <https://www.giffgaff.com/activate> ，输入卡上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
+1. 打开[官网](https://www.giffgaff.com/activate)，输入卡上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
 ![](https://i.imgur.com/2MvepgL.jpg)
 1. 输入你的邮箱，点击 **Next**；
 2. 创建密码，点击 **Register**；
@@ -43,7 +43,7 @@
 登录 giffgaff App 可订购流量套餐，有效期 30 天。
 ![](https://i.imgur.com/cvQXm1p.jpeg)
 
-官方资费介绍：https://www.giffgaff.com/roaming-charges
+官方资费介绍：[点击这里](https://www.giffgaff.com/roaming-charges)
 
 ---
 
@@ -77,13 +77,13 @@
 
 ## 余额
 
-登录官网 https://www.giffgaff.com/ 或 giffgaff App 查看。
+登录[官网](https://www.giffgaff.com/)或 giffgaff App 查看。
 
 ---
 
 ## 充值
 
-1. 打开 <https://www.giffgaff.com/> 并登录，点击 **Add credit**
+1. 登录[官网](https://www.giffgaff.com/)，点击 **Add credit**
 2. 选择金额和支付方式，点击 **Continue** 按提示操作
 
 ![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)用支持美元的信用卡（卡上有 VISA 或 Master 标识）进行充值。若无，联系客服代充值。
@@ -92,25 +92,25 @@
 
 ## eSIM
 
-eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
+eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，前期准备：
 
-1. 手机支持 eSIM，例如美版无锁 iPhone、Pixel
-2. 手机安装 giffgaff App
-3. 连接 Wi-Fi
+1. 支持 eSIM 手机，例如美版、日版无锁 iPhone、Pixel；
+2. 手机安装 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App；
+3. 手机连接 Wi-Fi。
 
-**转 eSIM 步骤**：
+**步骤**：
 
 1. 打开 giffgaff App 并登录，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
 2. 会看到一个提示，请保持稳定的 Wi-Fi 连接；
 3. 勾选 **I understand and accept this** > 点击 **Start the switch**；
 4. 输入短信收到的 6 位数验证码（或者选择邮箱接收验证码），点击 **Confirm**；
-5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，等待约 5 分钟-24 小时，获得信号即可使用，同时实体卡自动失效。
+5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，等待约 5 分钟-24 小时手机出现信号即可，同时实体卡自动作废。
 
-官网教程：<https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff>
+官网教程：[点击这里](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)。
 
 ---
 
-## 转回实体 SIM
+## eSIM 转回实体 SIM
 
 1. 需要一张未激活 giffgaff SIM 卡。可以[在这里](https://github.com/ssnhd/sim)订购一张；
 2. 拿到 SIM 卡后，前往 giffgaff 应用或网站并登录；
@@ -121,7 +121,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 ![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)只能在中国时间 11:30 – 次日凌晨 4:30 之间切换到 eSIM。
 
-官网说明：<https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim>
+官网说明：[点击这里](https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim)。
 
 ---
 
@@ -129,7 +129,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 如对系统分配的号码不满意，或该号码有使用记录，可以选择更换号码（依旧是随机分配）。
 
-1. 打开 <https://www.giffgaff.com/profile/details/getnumber> 点击 **Get a new giffgaff number**；
+1. 打开[官网](https://www.giffgaff.com/profile/details/getnumber)点击 **Get a new giffgaff number**；
 2. 输入密码，再点击 **Change my number**；
 3. 系统会跳转至个人信息与设置界面，等待显示新号码。
 
@@ -150,28 +150,28 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 2. iPhone 设置→ App→  电话→  打开 Wi-Fi 通话；
 3. iPhone 设置→ 蜂窝网络→ 点击你的号码→ 语音与数据→ 选择 4G 或 5G。
 
-不懂的可以看官网介绍（有视频演示）：[https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)
+不懂的可以看官网介绍（有视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)。
 
 ---
 
 ## 其他问题
 
-- 更改密码：<https://www.giffgaff.com/auth/reset-password>
-- 更改邮箱等资料：<https://www.giffgaff.com/profile/details>
-- 续费充值：<https://www.giffgaff.com/top-up>
-- 话费账单查询：<https://www.giffgaff.com/profile/usage-statement>
-- eSIM 转到另一部手机：<https://www.giffgaff.com/help/articles/can-i-still-use-my-esim-if-i-switch-to-a-different-phone>
-- 补卡联系客服：<https://t.me/GVStore>
-- 转入空卡：<https://www.giffgaff.com/profile/details#simswap>
+- 更改密码：[点击这里](https://www.giffgaff.com/auth/reset-password)
+- 更改邮箱等资料：[点击这里](https://www.giffgaff.com/profile/details)
+- 续费充值：[点击这里](https://www.giffgaff.com/top-up)
+- 话费账单查询：[点击这里](https://www.giffgaff.com/profile/usage-statement)
+- eSIM 转到另一部手机：[点击这里](https://www.giffgaff.com/help/articles/can-i-still-use-my-esim-if-i-switch-to-a-different-phone)
+- 补卡联系客服：[点击这里](https://github.com/ssnhd/sim)
+- 转入空卡：[点击这里](https://www.giffgaff.com/profile/details#simswap)
 
 ---
 
 ## 官方客服
 
-<https://www.giffgaff.com/boiler-plate/contact>
+[点击这里](https://www.giffgaff.com/boiler-plate/contact)
 
 ---
 
 ## 关于 TG
 
-延伸：网友总结 Telegram 常见问题及解决方案：https://github.com/ssnhd/telegram
+延伸：网友总结 Telegram 常见问题及解决方案：[点击这里](https://github.com/ssnhd/telegram)
