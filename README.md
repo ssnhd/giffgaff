@@ -2,13 +2,13 @@
 
 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负
 
-购买：[点击这里](https://t.me/GVStore)
+购买：[点击这里](https://github.com/ssnhd/sim)
 
 ---
 
 ## 激活
 
-①激活需充 10 英镑话费，发短信保号可用超 16 年。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如果没有，请联系[客服](https://t.me/GVStore)代激活。
+①激活需充 10 英镑话费，发短信保号可用超 16 年。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如果没有，请联系[客服](https://github.com/ssnhd/sim)代激活。
 
 ②激活后官方随机分配号码，如对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
 
@@ -108,7 +108,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 ## 转回实体 SIM
 
-1. 需要一张未激活 giffgaff SIM 卡。可以[在这里](https://t.me/GVStore)订购一张；
+1. 需要一张未激活 giffgaff SIM 卡。可以[在这里](https://github.com/ssnhd/sim)订购一张；
 2. 拿到 SIM 卡后，前往 giffgaff 应用或网站并登录；
 3. 请按照以下步骤更换 SIM 卡；
     - 在 App 上：tap on Account > SIM > Replace my SIM > Switch to a new physical SIM. 
