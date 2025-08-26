@@ -14,15 +14,16 @@
 
 1. 打开 <https://www.giffgaff.com/activate> ，输入卡上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
 ![](https://i.imgur.com/2MvepgL.jpg)
-2. 输入你的邮箱，点击 **Next**；
-3. 创建密码，点击 **Register**；
-4. 选择 **No,thanks**，点击 **Continue**；
-5. 网页下拉至底部选择 **Pay as you go**，点击 **Continue**；
-6. 选择 10 英镑，点击 **Pay now**；
-7. 输入地址（随意），点击 **Continue**；
-8. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**，付款后会出现号码和余额（下图，部分人可能要等待 20-30 分钟才会激活好），插卡等待有信号即可。
+1. 输入你的邮箱，点击 **Next**；
+2. 创建密码，点击 **Register**；
+3. 选择 **No,thanks**，点击 **Continue**；
+4. 网页下拉至底部选择 **Pay as you go**，点击 **Continue**；
+5. 选择 10 英镑，点击 **Pay now**；
+6. 输入地址（随意），点击 **Continue**；
+7. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**；
+8. 付款后会出现号码和余额（下图，大多数情况下，激活时间少于 60 分钟，最多 24 小时），插卡等待有信号即可。
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)号码前面的 0 登录官网或 App 时加上，日常去掉，示例：+4479xxxxx557（英国区号 +44）。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)号码前面的 0 登录官网或 App 时加上，日常使用去掉，示例：+447547xxxx33（英国区号 +44）。
 ![](https://i.imgur.com/kxlZpJk.png)
 
 ---
