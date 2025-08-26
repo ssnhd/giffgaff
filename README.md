@@ -37,9 +37,12 @@
 |  **接电话**       |   1 英镑／分钟 |
 |  **打电话**       |   1 英镑／分钟 |
 | **流量**    | 0.2 英镑／MB   |
-|**流量套餐（在 App 中订购）** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
+|**流量套餐（见下图）** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
 
-官网资费介绍：https://www.giffgaff.com/roaming-charges
+登录 giffgaff App 可订购流量套餐，有效期 30 天。
+![](https://i.imgur.com/cvQXm1p.jpeg)
+
+官方资费介绍：https://www.giffgaff.com/roaming-charges
 
 ---
 
