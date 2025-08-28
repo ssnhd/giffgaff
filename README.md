@@ -144,13 +144,13 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，前期准备：
 
 ## Wi-Fi Calling
 
-开启 Wi-Fi Calling 后资费会变便宜，发短信 0.08 英镑/每条，打电话 0.03英镑/分钟，缺点是需要保持在英国网络环境下。
+开启 [Wi-Fi Calling](https://www.giffgaff.com/international) 后资费会便宜，发短信 0.08 英镑/每条，打电话 0.03英镑/分钟。
 
 1. 全局英国 IP 网络；
 2. iPhone 设置→ App→  电话→  打开 Wi-Fi 通话；
 3. iPhone 设置→ 蜂窝网络→ 点击你的号码→ 语音与数据→ 选择 4G 或 5G。
 
-不懂的可以看官网介绍（有视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)。
+不懂的请看官网介绍（含视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)
 
 ---
 
