@@ -10,6 +10,7 @@
 
 - 激活需充 10 英镑话费。用有 VISA 或 MasterCard 标志的信用卡进行充值，如没有，联系[客服](https://github.com/ssnhd/sim)代激活。
 - 激活后官方随机分配号码，如对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
+- 英国区号 +44
 
 1. 打开[官网](https://www.giffgaff.com/activate)，输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
 ![](https://i.imgur.com/2MvepgL.jpg)
@@ -22,7 +23,7 @@
 7. 输入信用卡，勾选 **I understand and agree**， 点击 **Place order**；
 8. 付款后出现号码和余额（下图），激活时间一般少于 60 分钟，最多 24 小时，插卡等待有信号即可。
 
-注：日常使用去掉号码前的 0，例如 7547xxxx33（英国区号 +44）；但在登录官网或 App 时，需要加上 0。
+注：使用时去掉号码前面的 0，示例 7547xxxx33，但在登录官网或 App 时需加上 0。
 ![](https://i.imgur.com/kxlZpJk.png)
 
 
