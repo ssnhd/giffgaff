@@ -106,13 +106,11 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 ## eSIM 转回实体 SIM
 
-注：只能在中国时间 11:30 至次日凌晨 4:30 之间切换到 SIM。
+注：只能在英国时间凌晨 4:30 至晚上 9:30 之间操作（中国时间中午 12:30 至次日凌晨 5:30）。
 
 1. 在[这里](https://github.com/ssnhd/sim)订购一张未激活 SIM 卡；
-2. 登录 giffgaff App 或网站，二选一：
-    - App：tap on Account > SIM > Replace my SIM > Switch to a new physical SIM. 
-    - 网页：pop over to My profile and settings > Replace my SIM
-4. 按照提示操作即可再次使用实体 SIM 卡。
+2. 网页打开官网进入[个人资料和设置](https://www.giffgaff.com/profile/details)，找到 Replace my SIM；
+3. 按照提示操作即可再次使用实体 SIM 卡。
 
 官网说明：[点击这里](https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim)。
 
