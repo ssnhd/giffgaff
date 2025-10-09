@@ -106,7 +106,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 ## eSIM 转回实体 SIM
 
-注：只能在英国时间凌晨 4:30 至晚上 9:30 之间操作（中国时间中午 12:30 至次日凌晨 5:30）。
+注：只能在英国时间凌晨 4:30 至晚上 9:30 之间操作（中国时间中午 11:30 至次日凌晨 4:30）。
 
 1. 在[这里](https://github.com/ssnhd/sim)订购一张未激活 SIM 卡；
 2. 网页打开官网进入[个人资料和设置](https://www.giffgaff.com/profile/details)，找到 Replace my SIM，点击 **Activate your SIM**；
