@@ -90,25 +90,26 @@
 
 ## eSIM
 
-eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
+准备：
 
-1. 支持 eSIM 手机，例如美版、日版无锁 iPhone、Pixel；
-2. 手机安装 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App；
-3. 手机连接 Wi-Fi。
+1. 检查手机是否支持 eSIM，例如国外版无锁 iPhone；
+2. 手机安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) 应用，连接 Wi-Fi。
 
 **步骤**：
 
-1. 打开 giffgaff App 并登录，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
+操作时间为北京时间中午 12:30 至次日凌晨 4:30。
+
+1. 登录 giffgaff，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
 2. 会看到一个提示，请保持稳定的 Wi-Fi 连接；
 3. 勾选 **I understand and accept this** > 点击 **Start the switch**；
 4. 输入短信收到的 6 位数验证码（或者选择邮箱接收验证码），点击 **Confirm**；
-5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，等待 5 分钟-24 小时手机出现信号即可，同时实体卡自动作废。
+5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，一般 1 小时内会激活好（最慢不超过 24 小时），转 eSIM 成功后实体卡自动作废。
 
-注：转 eSIM 步骤中，官方可能会更新一些流程，一切以官网[（点击这里）](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
+注：步骤中官方可能会更新一些新的流程，以[官网](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
 
 ## eSIM 转回实体 SIM
 
-注：只能在英国时间凌晨 4:30 至晚上 9:30 之间操作（中国时间中午 11:30 至次日凌晨 4:30）。
+操作时间为北京时间中午 12:30 至次日凌晨 4:30。
 
 1. 在[这里](https://github.com/ssnhd/sim)订购一张未激活 SIM 卡；
 2. 网页打开官网进入[个人资料和设置](https://www.giffgaff.com/profile/details)，找到 Replace my SIM，点击 **Activate your SIM**；
@@ -147,8 +148,6 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 不懂的请看官网介绍（含视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)
 
-
-
 ## 其他问题
 
 - 更改密码：[点击这里](https://www.giffgaff.com/auth/reset-password)
@@ -159,13 +158,9 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 - 补卡联系客服：[点击这里](https://github.com/ssnhd/sim)
 - 转入空卡：[点击这里](https://www.giffgaff.com/profile/details#simswap)
 
-
-
 ## 官方客服
 
 [点击这里](https://www.giffgaff.com/boiler-plate/contact)
-
-
 
 ## 关于 TG
 
