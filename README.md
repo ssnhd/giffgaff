@@ -104,9 +104,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 4. 输入短信收到的 6 位数验证码（或者选择邮箱接收验证码），点击 **Confirm**；
 5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，等待 5 分钟-24 小时手机出现信号即可，同时实体卡自动作废。
 
-官网教程：[点击这里](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)。
-
-
+注：转 eSIM 步骤中，官方可能会更新一些流程，一切以官网[（点击这里）](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
 
 ## eSIM 转回实体 SIM
 
