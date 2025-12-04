@@ -101,13 +101,14 @@
 
 操作时间为北京时间中午 12:30 至次日凌晨 4:30。
 
-1. 登录 giffgaff，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
+1. 登录 App 依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
 2. 会看到一个提示，请保持稳定的 Wi-Fi 连接；
 3. 勾选 **I understand and accept this** > 点击 **Start the switch**；
-4. 输入短信收到的 6 位数验证码（或者选择邮箱接收验证码），点击 **Confirm**；
-5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**，一般 1 小时内会激活好（最慢不超过 24 小时），转 eSIM 成功后实体卡自动作废。
+4. 输入短信收到的验证码（或者选择发到邮箱），点击 **Confirm**；
+5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**；
+6. 一般 1 小时内会激活好 eSIM（最慢不超过 24 小时），可以不定时打开 App 查看是否已激活，激活后实体卡自动无服务（作废）。
 
-注：步骤中官方可能会更新一些新的流程，以[官网](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
+注：上述步骤可能会不定时更新，以[官方网站](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
 
 ## eSIM 转回实体 SIM
 
