@@ -42,9 +42,9 @@
 |  **接电话**       |   1 英镑／分钟 |
 |  **打电话**       |   1 英镑／分钟 |
 | **流量**    | 0.2 英镑／MB   |
-|**流量套餐（App 内订购）** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
+|**流量套餐** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
 
-官方资费介绍：[点击这里](https://www.giffgaff.com/roaming-charges)
+官方资费介绍：https://www.giffgaff.com/roaming-charges
 
 ## 保号
 
@@ -77,25 +77,21 @@
 
 ## 余额
 
-登录[官网](https://www.giffgaff.com/)或 giffgaff App 查看。
-
-
+登录官网 https://www.giffgaff.com/ 或 giffgaff App 查看。
 
 ## 充值
 
-1. 登录[官网](https://www.giffgaff.com/)，点击 **Add credit**
+1. 登录官网 https://www.giffgaff.com/, 点击 **Add credit**
 2. 选择金额和支付方式，点击 **Continue** 按提示操作
 
 注：用有 VISA 或 MasterCard 标志的信用卡进行充值。若无，联系[客服](https://github.com/ssnhd/sim)代充值。
-
-
 
 ## eSIM
 
 准备：
 
-1. 检查手机是否支持 eSIM，例如国外版无锁 iPhone；
-2. 手机安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) 应用，连接 Wi-Fi。
+1. 手机需支持 eSIM，例如外版无锁 iPhone；
+2. 手机安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App，连接 Wi-Fi。
 
 **步骤**：
 
@@ -132,14 +128,12 @@
 2. 输入密码，再点击 **Change my number**；
 3. 系统会跳转至个人信息与设置界面，等待显示新号码。
 
-❗注意事项：
+注意事项：
 
 1. 中国时间深夜 4:30 至上午 11:30 期间不可以更换；
 2. 新的号码和余额最多需要 4 个小时显示到账户中；
 3. 全程使用 Wi-Fi；
 4. 每个账户支持更换 2 次号码，第二次需 24 小时后。
-
-
 
 ## Wi-Fi Calling
 
@@ -163,7 +157,7 @@
 
 ## 官方客服
 
-[点击这里](https://www.giffgaff.com/boiler-plate/contact)
+https://www.giffgaff.com/boiler-plate/contact
 
 ## 关于 TG
 
