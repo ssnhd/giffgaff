@@ -20,7 +20,7 @@
 5. 网页下拉至底部选择 **Pay as you go**，点击 **Continue**；
 ![](https://i.imgur.com/0dhszW0.png)
 6. 选择 10 英镑，点击 **Pay now**；
-7. 地址随意，点击 **Continue**；
+7. 填写姓名和地址（最好真实存在），点击 **Continue**；
 8. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**；
 9. 付款后回到主页会出现号码和余额（下图），说明已经激活好，插卡等待有信号即可。
 
