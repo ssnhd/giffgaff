@@ -152,6 +152,10 @@
 
 https://www.giffgaff.com/boiler-plate/contact
 
-## 关于 TG
+## 官方条款及细则
 
-网友总结 Telegram 常见问题及解决方案：[点击这里](https://github.com/ssnhd/telegram)
+https://www.giffgaff.com/terms
+
+## 关于 Telegram
+
+网友总结 TG 常见问题及解决方案：[点击这里](https://github.com/ssnhd/telegram)。
