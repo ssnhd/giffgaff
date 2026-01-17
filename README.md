@@ -8,23 +8,23 @@
 
 ## 激活
 
-- 激活需充 10 英镑话费。用有 VISA 或 MasterCard 标志的实体信用卡进行充值，如没有，联系[客服](https://github.com/ssnhd/sim)代激活。
-- 激活后官方随机分配号码，如对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
+- 激活需充 10 英镑话费。用有 VISA 或 MasterCard 标志的实体信用卡进行充值，若没有，联系[客服](https://github.com/ssnhd/sim)代激活。
+- 激活后官方随机分配号码，对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
 - 英国区号 +44
 
-1. 打开[官网](https://www.giffgaff.com/activate)，输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
+1. 打开 https://www.giffgaff.com/activate 输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
 ![](https://i.imgur.com/2MvepgL.jpg)
 2. 输入邮箱，点击 **Next**；
 3. 创建密码，点击 **Register**；
 4. 选择 **No,thanks**，点击 **Continue**；
 5. 网页下拉至底部选择 **Pay as you go**，点击 **Continue**；
 6. 选择 10 英镑，点击 **Pay now**；
-7. 填写姓名和地址（建议真实存在的地址），点击 **Continue**；
+7. 填写姓名和地址（可以打开谷歌地图搜索英国地址），点击 **Continue**；
 8. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**；
-9. 付款后回到主页会出现号码和余额（下图），说明已经激活好，插卡等待有信号即可。
+9. 付款后回到主页出现号码和余额（下图），插卡等待有信号即可。
 
->注 1：如果未显示余额，说明还在激活中，等待 30-60 分钟（最多 24 小时），可以不定时刷新网页查看，显示余额即说明已激活。\
->注 2：使用时去掉号码前面的 0，示例 7547xxxx33，但在登录官网或 App 时需加上 0。
+>注①：未显示余额说明还在激活中，等待 30-60 分钟（最多 24 小时），不定时刷新网页查看显示余额代表激活好。\
+>注②：官网显示号码 `088XXXXXX88`，日常使用去掉前面 `0` 即 `88XXXXXX88`（登录官网或 App 时不去掉）。
 
 ![](https://i.imgur.com/kxlZpJk.png)
 
@@ -42,7 +42,7 @@
 | **流量**    | 0.2 英镑／MB   |
 |**流量套餐** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
 
-官方资费介绍：https://www.giffgaff.com/roaming-charges
+官网资费介绍：https://www.giffgaff.com/roaming-charges
 
 ## 保号
 
