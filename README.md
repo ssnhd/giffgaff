@@ -83,23 +83,22 @@
 
 准备：
 
-1. 手机需支持 eSIM，例如外版无锁 iPhone；
+1. 支持 eSIM 的手机，例如外版无锁 iPhone；
 2. 手机安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App，连接 Wi-Fi。
+3. 操作时间：中国时间中午 12:30 至次日凌晨 4:30。
 
 **步骤**：
-
-操作时间为北京时间中午 12:30 至次日凌晨 4:30。
 
 1. 登录 App 依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
 2. 会看到一个提示，请保持稳定的 Wi-Fi 连接；
 3. 勾选 **I understand and accept this** > 点击 **Start the switch**；
-4. 输入短信收到的验证码（或者选择发到邮箱），点击 **Confirm**；
-5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**；
-6. 一般 1 小时内会激活好 eSIM（最慢不超过 24 小时），可以不定时打开 App 查看是否已激活，激活后实体卡自动无服务（作废）。
+4. 输入短信收到的验证码（或者点击验证码发到邮箱），点击 **Confirm**；
+5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**（我们正在激活您的 eSIM）；
+6. 一般 1 小时内会激活好（最慢不超过 24 小时），可以不定时打开 App 查看是否已激活，完成后实体卡自动无服务（即作废）。
 
-注：上述步骤可能会不定时更新，以[官方网站](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
+注：上述步骤官方可能会不定时更新，以[官网](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
 
-## eSIM 转回实体 SIM
+## eSIM 转回实体 SIM 卡
 
 操作时间为北京时间中午 12:30 至次日凌晨 4:30。
 
