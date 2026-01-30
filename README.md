@@ -9,7 +9,6 @@
 ## 激活
 
 - 激活需充 10 英镑话费。用有 VISA 或 MasterCard 标志的实体信用卡进行充值，若没有，联系[客服](https://github.com/ssnhd/sim)代激活。
-- 激活后官方随机分配号码，对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
 - 英国区号 +44
 
 1. 打开 https://www.giffgaff.com/activate 输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
@@ -30,7 +29,7 @@
 
 
 
-## 在中国资费
+## 资费
 
 |  |  费用 |
 |  ----  | ----  |
@@ -63,6 +62,30 @@
 
 - 给他发短信：号码前加 `00`+`国家区号`，示例 004488xxxxxx88
 - 给他打电话：号码前加 `+`+`国家区号`，示例 +4488xxxxxx88 （长安拨号键 `0` 出现 `+`）
+
+## 收不到短信
+
+首相确保有信号。
+
+- 情况一：能收到官方短信即代表号码正常使用（例如登录官网收到的验证码短信）。
+- 情况二：注册平台收不到短信，一般是你的代理 IP/VPN 问题，请更换更干净的 IP。
+
+>特别提醒：TG 常见问题及解决方案[点击这里](https://github.com/ssnhd/telegram)。
+
+## 更改号码
+
+如对系统分配的号码不满意（或该号码有使用记录），可以更换号码，依旧是随机分配。
+
+1. 打开 https://www.giffgaff.com/profile/details/getnumber 点击 **Get a new giffgaff number**；
+2. 输入密码，再点击 **Change my number**；
+3. 系统会跳转至个人信息与设置界面，等待显示新号码。
+
+注意事项：
+
+1. 中国时间深夜 5:30 至上午 13:00 期间不可以更换；
+2. 新的号码和余额最多需要 4 个小时显示到账户中；
+3. 全程使用 Wi-Fi；
+4. 每个账户支持更换 2 次号码，第二次需 24 小时后。
 
 ## 打电话提示“设置了限制”
 
@@ -110,23 +133,6 @@
 
 官网说明：[点击这里](https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim)
 
-
-
-## 更改号码
-
-如对系统分配的号码不满意，或该号码有使用记录，可以选择更换号码（依旧是随机分配）。
-
-1. 打开[官网](https://www.giffgaff.com/profile/details/getnumber)点击 **Get a new giffgaff number**；
-2. 输入密码，再点击 **Change my number**；
-3. 系统会跳转至个人信息与设置界面，等待显示新号码。
-
-注意事项：
-
-1. 中国时间深夜 4:30 至上午 11:30 期间不可以更换；
-2. 新的号码和余额最多需要 4 个小时显示到账户中；
-3. 全程使用 Wi-Fi；
-4. 每个账户支持更换 2 次号码，第二次需 24 小时后。
-
 ## Wi-Fi Calling
 
 开启 [Wi-Fi Calling](https://www.giffgaff.com/international) 后资费会便宜，发短信 0.08 英镑/每条，打电话 0.03英镑/分钟。
@@ -155,6 +161,4 @@ https://www.giffgaff.com/boiler-plate/contact
 
 https://www.giffgaff.com/terms
 
-## 关于 Telegram
 
-网友总结 TG 常见问题及解决方案：[点击这里](https://github.com/ssnhd/telegram)。
