@@ -65,12 +65,11 @@
 
 ## 收不到短信
 
-首相确保有信号。
+确定有信号，能收到官方短信表示号码正常使用（例如登录官网时收到验证码短信）。
 
-- 情况一：能收到官方短信即代表号码正常使用（例如登录官网收到的验证码短信）。
-- 情况二：注册平台收不到短信，一般是你的代理 IP/VPN 问题，请更换更干净的 IP。
+如果注册平台收不到短信，一般是代理 IP/VPN 问题，请更换更干净 IP。
 
->特别提醒：TG 常见问题及解决方案[点击这里](https://github.com/ssnhd/telegram)。
+>注：TG 常见问题及解决方案[点击这里](https://github.com/ssnhd/telegram)。
 
 ## 更改号码
 
@@ -91,39 +90,42 @@
 
 手机设置里关闭运营商自动选择，手动选择中国移动。
 
-## 余额
+## 查余额
 
-登录官网 https://www.giffgaff.com/ 或 giffgaff App 查看。
+- 登录官网 https://www.giffgaff.com/dashboard 查看余额
+- 或者打开 giffgaff app 查看余额
+
+官网介绍：https://help.giffgaff.com/en/articles/240842-how-do-i-check-my-credit-balance
 
 ## 充值
 
-1. 登录官网 https://www.giffgaff.com/, 点击 **Add credit**
+1. 登录官网 https://www.giffgaff.com/ 点击 **Add credit**
 2. 选择金额和支付方式，点击 **Continue** 按提示操作
 
-注：用有 VISA 或 MasterCard 标志的信用卡进行充值。若无，联系[客服](https://github.com/ssnhd/sim)代充值。
+>注：用有 VISA 或 MasterCard 标志的信用卡进行充值，或者联系[客服](https://github.com/ssnhd/sim)代充值。
 
 ## eSIM
 
-准备：
+### 准备
 
 1. 支持 eSIM 的手机，例如外版无锁 iPhone；
-2. 手机安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App，连接 Wi-Fi。
-3. 操作时间：中国时间中午 12:30 至次日凌晨 4:30。
+2. 手机安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) app，连接 Wi-Fi；
+3. 操作时间：北京时间 12:30 至次日凌晨 4:30。
 
-**步骤**：
+### 步骤
 
-1. 登录 App 依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
-2. 会看到一个提示，请保持稳定的 Wi-Fi 连接；
+1. 登录 app 依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
+2. 会看到提示，请保持稳定的 Wi-Fi 连接；
 3. 勾选 **I understand and accept this** > 点击 **Start the switch**；
 4. 输入短信收到的验证码（或者点击验证码发到邮箱），点击 **Confirm**；
 5. 点击 **Install eSIM**，按提示操作最后出现 **We're activating your eSIM**（我们正在激活您的 eSIM）；
 6. 一般 1 小时内会激活好（最慢不超过 24 小时），可以不定时打开 App 查看是否已激活，完成后实体卡自动无服务（即作废）。
 
-注：上述步骤官方可能会不定时更新，以[官网](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
+>注：上述步骤官方可能会不定时更新，以[官网](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
 
 ## eSIM 转回实体 SIM 卡
 
-操作时间为北京时间中午 12:30 至次日凌晨 4:30。
+操作时间：北京时间 12:30 至次日凌晨 4:30。
 
 1. 在[这里](https://github.com/ssnhd/sim)订购一张未激活 SIM 卡；
 2. 网页打开官网进入[个人资料和设置](https://www.giffgaff.com/profile/details)，找到 Replace my SIM，点击 **Activate your SIM**；
@@ -141,7 +143,7 @@
 2. iPhone 设置→ App→  电话→  打开 Wi-Fi 通话；
 3. iPhone 设置→ 蜂窝网络→ 点击你的号码→ 语音与数据→ 选择 4G 或 5G。
 
-不懂的请看官网介绍（含视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)
+>注：官网介绍（含视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)
 
 ## 其他问题
 
