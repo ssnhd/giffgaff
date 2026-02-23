@@ -13,7 +13,7 @@
 
 1. 打开 https://www.giffgaff.com/activate 输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
 ![](https://i.imgur.com/2MvepgL.jpg)
-2. 输入邮箱，点击 **Next**；
+2. 输入邮箱并验证，点击 **Next**；
 3. 创建密码，点击 **Register**；
 4. 选择 **No,thanks**，点击 **Continue**；
 5. 网页下拉至底部选择 **Pay as you go**，点击 **Continue**；
