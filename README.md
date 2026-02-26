@@ -2,7 +2,7 @@
 
 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负
 
-购买：[点击这里](https://github.com/ssnhd/sim)
+**📣购买 GV 和外国实体 SIM 卡**：https://github.com/ssnhd/sim
 
 
 
