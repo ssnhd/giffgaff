@@ -34,7 +34,7 @@
 ![](https://i.imgur.com/DRWLFVX.png)
 
 12. 回到主页，可以看到余额，如果未显示余额说明还在激活中，耐心等待。
-![](https://i.imgur.com/GQmwUHu.png)
+![](https://i.imgur.com/fEilkRR.png)
 
 
 ## 在国内资费
