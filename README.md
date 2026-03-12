@@ -1,29 +1,43 @@
 # 英国实体 SIM 卡 giffgaff 激活使用教程
 
-请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负
+请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负！
 
 **📣购买 GV 和外国实体 SIM 卡**：https://github.com/ssnhd/sim
 
-
-
 ## 激活
 
-注：激活充 10 英镑话费，用有 VISA 或 MasterCard 标志的实体信用卡进行充值，若没有，联系[客服](https://github.com/ssnhd/sim)购买充值卡进行激活。
+1. 打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
+![](https://i.imgur.com/uCsYIdQ.png)
+2. 输入邮箱，点击 **Next**。
+![](https://i.imgur.com/PUedxya.png)
+3. 输入邮箱收到的验证码，点击 **Confirm**。
+![](https://i.imgur.com/NHputwV.png)
+4. 创建密码，点击 **Register**。
+![](https://i.imgur.com/rXN5kXT.png)
 
-1. 打开 https://www.giffgaff.com/activate 输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
-![](https://i.imgur.com/2MvepgL.jpg)
-2. 输入邮箱并验证，点击 **Next**；
-3. 创建密码，点击 **Register**；
-4. 选择 **No,thanks**，点击 **Continue**；
-5. 点击【Pay as you go】或者网页下拉至最底部选择 **Pay as you go**，点击 **Continue**；
-6. 选择 10 英镑，点击 **Pay now**；
-7. 填写姓名和地址（可以打开谷歌地图搜索英国地址），点击 **Continue**；
-8. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**；
-9. 付款后回到主页出现号码和余额（下图，如果未显示余额说明还在激活中，耐心等待），插卡等待有信号即可。
->注：号码去掉前面 `0`，登录官网或 App 时加上 `0`。
-![](https://i.imgur.com/kxlZpJk.png)
+5. 选择 **No,thanks**，点击 **Continue**。
+![](https://i.imgur.com/hszk79p.png)
 
-## 国内资费
+6. 网页下拉至最底部选择 **Pay as you go**，点击 **Continue**。
+![](https://i.imgur.com/rvdrl0x.png)
+
+7. 选择 10 英镑，点击 **Pay now**，用 VISA 或 MasterCard 标志的信用卡进行充值。⚠️如果没有信用卡，点击 **Or redeem a top-up voucher** 联系[客服](https://github.com/ssnhd/sim)购买充值卡。
+![](https://i.imgur.com/BycDwod.png)
+
+9. 填写姓名和地址，点击 **Continue**。
+![](https://i.imgur.com/6drlHnE.png)
+
+10. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**。
+![](https://i.imgur.com/JbCbDRF.png)
+
+11. 出现号码表示已成功激活，如果未显示号码说明正在激活中。
+![](https://i.imgur.com/DRWLFVX.png)
+
+12. 回到主页，可以看到余额，如果未显示余额说明还在激活中，耐心等待。
+![](https://i.imgur.com/GQmwUHu.png)
+
+
+## 在国内资费
 
 |  |  费用 |
 |  ----  | ----  |
