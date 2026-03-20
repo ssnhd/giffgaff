@@ -30,7 +30,7 @@
 10. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**。
 ![](https://i.imgur.com/JbCbDRF.png)
 
-11. 出现号码表示已成功激活，如果未显示号码说明正在激活中。
+11. 出现号码表示已成功激活（英国区号 +44），如果未显示号码说明正在激活中。
 ![](https://i.imgur.com/DRWLFVX.png)
 
 12. 回到主页，可以看到余额，如果未显示余额说明还在激活中，耐心等待。
