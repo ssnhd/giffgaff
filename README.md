@@ -1,8 +1,8 @@
 # 英国实体 SIM 卡 giffgaff 激活使用教程
 
-请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负！
+旅游专用，请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负！
 
-**📣购买 GV 和外国实体 SIM 卡**：https://github.com/ssnhd/sim
+出售 GV 和外国旅游实体 SIM 卡：https://github.com/ssnhd/sim
 
 ## 激活
 
