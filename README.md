@@ -49,7 +49,7 @@
 | **流量**    | 0.2 英镑／MB   |
 |**流量套餐** | 15 英镑／1GB、30 英镑／5GB、45 英镑／10GB  |
 
-官方资费介绍：[点击这里](https://www.giffgaff.com/roaming-charges)
+在其他国家/地区资费：[点击这里](https://www.giffgaff.com/roaming-charges)
 
 ## 保号
 
