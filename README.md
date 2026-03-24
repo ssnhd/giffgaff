@@ -24,7 +24,7 @@
 7. 选择 10 英镑，点击 **Pay now**，用 VISA 或 MasterCard 标志的信用卡进行充值。⚠️如果没有信用卡，点击 **Or redeem a top-up voucher** 联系[客服](https://github.com/ssnhd/sim)购买充值卡。
 ![](https://i.imgur.com/BycDwod.png)
 
-9. 填写姓名和地址，点击 **Continue**。
+9. 填写姓名和地址（不要随意填写，建议真实有效，例如常见英文名），点击 **Continue**。
 ![](https://i.imgur.com/6drlHnE.png)
 
 10. 输入信用卡信息，勾选 **I understand and agree**， 点击 **Place order**。
