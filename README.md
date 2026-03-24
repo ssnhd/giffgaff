@@ -159,7 +159,7 @@
 - 更改邮箱等资料：[点击这里](https://www.giffgaff.com/profile/details)
 - 续费充值：[点击这里](https://www.giffgaff.com/top-up)
 - 话费账单查询：[点击这里](https://www.giffgaff.com/profile/usage-statement)
-- eSIM 转到另一部手机：[点击这里](https://www.giffgaff.com/help/articles/can-i-still-use-my-esim-if-i-switch-to-a-different-phone)
+- eSIM 相关问题：[点击这里](https://help.giffgaff.com/en/collections/626993-esim)
 - 补卡联系客服：[点击这里](https://github.com/ssnhd/sim)
 - 转入空卡：[点击这里](https://www.giffgaff.com/profile/details#simswap)
 
