@@ -64,6 +64,10 @@
 >1. 国内运营商一般默认开启屏蔽来自海外的电话和短信；
 >2. 有概率触发反诈风控，导致国内号码被关停。
 
+## 查询本机号码
+
+编辑短信 **number** 发送到 **2020**，通常会在 30 秒到 2 分钟内收到短信。
+
 ## 短信、电话格式
 
 例如你朋友的英国号码是： 88xxxxxx88
@@ -98,12 +102,10 @@
 
 手机设置里关闭运营商自动选择，手动选择中国移动。
 
-## 查余额
+## 查询余额
 
-- 登录官网 https://www.giffgaff.com/dashboard 查看余额
-- 或者打开 giffgaff app 查看余额
-
-官网介绍：https://help.giffgaff.com/en/articles/240842-how-do-i-check-my-credit-balance
+- 官网查看 https://www.giffgaff.com/dashboard
+- giffgaff app 查看
 
 ## 充值
 
