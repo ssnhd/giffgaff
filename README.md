@@ -4,7 +4,7 @@
 
 🇬🇧出售 GV 外国旅游 SIM 卡：[点击这里](https://github.com/ssnhd/sim)
 
-## 激活
+## 一、激活
 
 1. 打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
 ![](https://i.imgur.com/uCsYIdQ.png)
@@ -38,7 +38,7 @@
 ![](https://i.imgur.com/fEilkRR.png)
 
 
-## 在国内资费
+## 二、资费
 
 |  |  费用 |
 |  ----  | ----  |
@@ -54,7 +54,7 @@
 
 在其他国家/地区使用资费：[点击这里](https://www.giffgaff.com/roaming-charges)
 
-## 保号
+## 三、保号
 
 每 180 天内余额变动（消费或充值）自动延长 180 天，可以执行以下任一操作：
 
@@ -67,26 +67,28 @@
 >1. 国内运营商一般默认开启屏蔽来自海外的电话和短信；
 >2. 有概率触发反诈风控，导致国内号码被关停。
 
-## 查询本机号码
+## 四、查询本机号码
 
 编辑短信 **number** 发送到 **2020**，通常会在 30 秒到 2 分钟内收到短信。
 
-## 短信、电话格式
+## 五、短信、电话格式
 
-例如你的朋友英国号码是： 79xxxxxx88
+例如你的朋友英国号码是： 88xxxxxx88\
+发短信/打电话：`+`+`国家区号`+`号码`，示例 +4488xxxxxx88
 
-发短信/打电话：`+`+`国家区号`+`号码`，示例 +4479xxxxxx88
+## 六、更改密码、邮箱
 
+- 改密码：https://www.giffgaff.com/auth/reset-password
+- 改邮箱（或等个人资料）：https://www.giffgaff.com/profile/details
 
-## 收不到短信
+## 七、收不到短信
 
-确定有信号，能收到官方短信表示号码正常使用（例如登录官网时收到验证码短信）。
-
+确定有信号，能收到官方短信表示号码正常使用（例如登录官网时收到验证码短信）。\
 如果注册平台收不到短信，一般是代理 IP/VPN 问题，请更换更干净 IP。
 
->注：TG 常见问题及解决方案[点击这里](https://github.com/ssnhd/telegram)。
+>延伸：TG 常见问题[点击这里](https://github.com/ssnhd/telegram)。
 
-## 更改号码
+## 八、更改号码
 
 如对系统分配的号码不满意（或该号码有使用记录），可以更换号码，依旧是随机分配。
 
@@ -101,23 +103,22 @@
 3. 全程使用 Wi-Fi；
 4. 每个账户支持更换 2 次号码，第二次需 24 小时后。
 
-## 打电话提示“设置了限制”
+## 九、打电话提示“设置了限制”
 
 手机设置里关闭运营商自动选择，手动选择中国移动。
 
-## 查询余额
+## 十、查询余额
 
-- 官网查看 https://www.giffgaff.com/dashboard
-- giffgaff app 查看
+登录官网 https://www.giffgaff.com 或 App 查
 
-## 充值
+## 十一、充值
 
-1. 登录官网 https://www.giffgaff.com/ 点击 **Add credit**
+1. 登录官网 https://www.giffgaff.com 点击 **Add credit**
 2. 选择金额和支付方式，点击 **Continue** 按提示操作
 
 >注：用有 VISA 或 MasterCard 标志的信用卡进行充值，或者联系[客服](https://github.com/ssnhd/sim)代充值。
 
-## eSIM
+## 十二、实体卡转 eSIM
 
 ### 准备
 
@@ -136,7 +137,7 @@
 
 >注：上述步骤官方可能会不定时更新，以[官网](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
 
-## eSIM 转回实体 SIM 卡
+## 十三、eSIM 转实体卡
 
 操作时间：北京时间 12:30 至次日凌晨 4:30。
 
@@ -148,7 +149,7 @@
 
 官网说明：[点击这里](https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim)
 
-## Wi-Fi Calling
+## 十四、Wi-Fi Calling
 
 开启 [Wi-Fi Calling](https://www.giffgaff.com/international) 后资费会便宜，发短信 0.08 英镑/每条，打电话 0.03英镑/分钟。
 
@@ -158,22 +159,17 @@
 
 >注：官网介绍（含视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)
 
-## 其他问题
+## 十五、其他问题
 
-- 更改密码：[点击这里](https://www.giffgaff.com/auth/reset-password)
-- 更改邮箱等资料：[点击这里](https://www.giffgaff.com/profile/details)
-- 续费充值：[点击这里](https://www.giffgaff.com/top-up)
-- 话费账单查询：[点击这里](https://www.giffgaff.com/profile/usage-statement)
-- eSIM 相关问题：[点击这里](https://help.giffgaff.com/en/collections/626993-esim)
-- 补卡联系客服：[点击这里](https://github.com/ssnhd/sim)
-- 转入空卡：[点击这里](https://www.giffgaff.com/profile/details#simswap)
+- 续费充值：https://www.giffgaff.com/top-up
+- 话费账单查询：https://www.giffgaff.com/profile/usage-statement
+- eSIM 相关问题：https://help.giffgaff.com/en/collections/626993-esim
+- 补卡：https://github.com/ssnhd/sim
+- 转入空卡：https://www.giffgaff.com/profile/details#simswap
 
-## 官方客服
+## 十七、官方客服和条款
 
-https://www.giffgaff.com/boiler-plate/contact
-
-## 官方条款及细则
-
-https://www.giffgaff.com/terms
+- 客服：https://www.giffgaff.com/boiler-plate/contact
+- 条款：https://www.giffgaff.com/terms
 
 
