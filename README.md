@@ -167,7 +167,7 @@
 - 补卡：https://github.com/ssnhd/sim
 - 转入空卡：https://www.giffgaff.com/profile/details#simswap
 
-## 十七、官方客服和条款
+## 十六、官方客服和条款
 
 - 客服：https://www.giffgaff.com/boiler-plate/contact
 - 条款：https://www.giffgaff.com/terms
