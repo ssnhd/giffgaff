@@ -22,7 +22,7 @@
 ![](https://i.imgur.com/rvdrl0x.png)
 
 7. 选择 10 英镑，点击 **Pay now**，使用多币种信用卡（VISA 或 MasterCard）进行充值。\
-注：若没有信用卡，联系客服[购买充值卡](https://github.com/ssnhd/sim)，点击 **Or redeem a top-up voucher**，在 **Voucher code** 里输入 16 位充值卡密。
+注：若没有信用卡，打开 https://github.com/ssnhd/sim 购买充值卡，点击 **Or redeem a top-up voucher**，在 **Voucher code** 里输入 16 位充值卡密。
 ![](https://i.imgur.com/BycDwod.png)
 
 8. 填写姓名和地址（建议用现实中存在的英文名，用谷歌地图搜个真实地址），点击 **Continue**。
