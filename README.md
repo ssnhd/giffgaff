@@ -2,11 +2,11 @@
 
 旅游专用，请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负！
 
-🇬🇧出售 GV 外国旅游 SIM 卡：[点击这里](https://github.com/ssnhd/sim)
+🇬🇧出售 GV 英国美国旅游 SIM 卡：https://github.com/ssnhd/sim
 
 ## 一、激活
 
-1. 打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
+1. 先不要插卡，打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
 ![](https://i.imgur.com/uCsYIdQ.png)
 2. 输入邮箱，点击 **Next**。
 ![](https://i.imgur.com/PUedxya.png)
@@ -34,7 +34,7 @@
 
 10. 出现的号码就是你的手机号（英国区号 +44）。
 ![](https://i.imgur.com/DRWLFVX.png)
-11. 回到主页显示余额表示已激活；反之还在激活中（一般 30 分钟内，慢的话 1 小时，最慢不超过 24 小时）。
+11. 回到主页显示余额表示已激活，插卡等待有信号即可；反之还在激活中（一般 30 分钟内，慢的话 1 小时，最慢不超过 24 小时）。
 ![](https://i.imgur.com/fEilkRR.png)
 
 
