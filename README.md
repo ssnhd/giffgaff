@@ -78,10 +78,10 @@
 
 编辑短信 **number** 发送到 **2020**，通常会在 30 秒到 2 分钟内收到短信。
 
-## 六、更改密码、邮箱
+## 六、更改邮箱 密码
 
-- 改密码：https://www.giffgaff.com/auth/reset-password
-- 改邮箱（或等个人资料）：https://www.giffgaff.com/profile/details
+- 改邮箱：https://www.giffgaff.com/auth/change-email
+- 改密码：官网退出登录，点击 **[Forgot your password?](https://www.giffgaff.com/auth/reset-password)** 输入手机号码重置（号码前面带 0）
 
 ## 七、收不到短信
 
