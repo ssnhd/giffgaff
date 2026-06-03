@@ -6,7 +6,7 @@
 
 ## 一、激活
 
-1. 先不要插卡，打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
+1. 先不要插卡，浏览器清空缓存重启，建议无痕模式，打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
 ![](https://i.imgur.com/uCsYIdQ.png)
 2. 输入邮箱，点击 **Next**。
 ![](https://i.imgur.com/PUedxya.png)
