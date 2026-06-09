@@ -87,8 +87,13 @@
 
 ## 六、更改邮箱 密码
 
-- 改邮箱：https://www.giffgaff.com/auth/change-email
-- 改密码：官网退出登录，点击 **[Forgot your password?](https://www.giffgaff.com/auth/reset-password)** 输入手机号码重置（号码前面带 0）
+### 改邮箱
+- 方法一：登录 https://www.giffgaff.com/auth/change-email 直接修改；
+- 方法二：如果无法登录官网，点击页面上 **Change**，输入自己的邮箱验证即可。
+
+### 改密码
+- 方法一：登录官网，点击 **Security**，再点击 **Change password**；
+- 方法二：如果无法登录官网，点击 **[Forgot your password?](https://www.giffgaff.com/auth/reset-password)** 输入手机号码重置（号码前面带 0）。
 
 ## 七、收不到短信
 
