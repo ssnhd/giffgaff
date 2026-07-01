@@ -1,6 +1,5 @@
 # 英国实体 SIM 卡 giffgaff 激活使用教程
 
-旅游专用，请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负！
 
 🇬🇧出售 GV 英国美国旅游 SIM 卡：https://github.com/ssnhd/sim
 
@@ -38,6 +37,9 @@
     如果未显示余额表示还在激活中（一般 30 分钟至几小时，最慢不超过 24 小时），激活成功官方也会发邮箱通知你。
 ![](https://i.imgur.com/b9DOA4g.png)
 
+---
+
+
 
 ## 资费
 
@@ -55,6 +57,9 @@
 
 在其他国家/地区使用资费：[点击这里](https://www.giffgaff.com/roaming-charges)
 
+---
+
+
 ## 保号
 
 每 180 天内余额变动（消费或充值）自动延长 180 天，可以执行以下任一操作：
@@ -64,36 +69,30 @@
 - 打一次电话（不包括拨打紧急服务和官方客服热线）
 - 充一次话费
 
+---
+
+
 ## 发短信、打电话格式
 
 **规则：`+`+`国家代码`+`号码`**，如果对方的英国号码是 8888888888，示例：
 
-**发短信：** 
-- iPhone：00448888888888
-- Android：+448888888888
+- **发短信：** 00448888888888
+- **打电话：** +448888888888（拨号键长按数字 0 显示 “+”）
 
-**打电话：**
-- iPhone：+448888888888
-- Android：+448888888888
+🚫不建议联系国内 +86 号码。国内运营商通常默认拦截境外电话和短信，且有概率触发反诈风控，导致 +86 号码被停号。
 
-注：拨号键长按数字 0 显示 “+”
+---
 
->🚫不建议联系国内 +86 号码。国内运营商通常默认拦截境外电话和短信，且有概率触发反诈风控，导致号码被停机。
 
 
 ## 查询本机号码
 
-编辑短信 **number** 发送到 **2020**，通常会在 30 秒到 2 分钟内收到短信。
+编辑短信 **number** 发送到 **2020**，会收到官方短信告知本机号码。
 
-## 更改邮箱 密码
 
-### 改邮箱
-- 方法一：登录 https://www.giffgaff.com/auth/change-email 直接修改；
-- 方法二：如果无法登录官网，点击页面上 **Change**，输入自己的邮箱验证即可。
 
-### 改密码
-- 方法一：登录官网，点击 **Security**，再点击 **Change password**；
-- 方法二：如果无法登录官网，点击 **[Forgot your password?](https://www.giffgaff.com/auth/reset-password)** 输入手机号码重置（号码前面带 0）。
+---
+
 
 ## 收不到短信
 
@@ -101,6 +100,9 @@
 如果注册平台收不到短信，一般是代理 IP/VPN 问题，请更换更干净 IP。
 
 >延伸：TG 常见问题[点击这里](https://github.com/ssnhd/telegram)。
+
+---
+
 
 ## 更改号码
 
@@ -117,13 +119,22 @@
 3. 全程使用 Wi-Fi；
 4. 每个账户支持更换 2 次号码，第二次需 24 小时后。
 
+---
+
+
 ## 打电话提示“设置了限制”
 
 手机设置里关闭运营商自动选择，手动选择中国移动。
 
+---
+
+
 ## 查询余额
 
 登录官网 https://www.giffgaff.com 或 App 查
+
+---
+
 
 ## 充值
 
@@ -131,6 +142,20 @@
 2. 选择金额和支付方式，点击 **Continue** 按提示操作
 
 >注：用有 VISA 或 MasterCard 标志的信用卡进行充值，或者联系[客服](https://github.com/ssnhd/sim)代充值。
+---
+
+
+## 更改邮箱 密码
+
+### 改邮箱
+- 方法一：登录 https://www.giffgaff.com/auth/change-email 直接修改；
+- 方法二：如果无法登录官网，点击页面上 **Change**，输入自己的邮箱验证即可。
+
+### 改密码
+- 方法一：登录官网，点击 **Security**，再点击 **Change password**；
+- 方法二：如果无法登录官网，点击 **[Forgot your password?](https://www.giffgaff.com/auth/reset-password)** 输入手机号码重置（号码前面带 0）。
+---
+
 
 ## 激活 eSIM
 
@@ -140,6 +165,7 @@
 2. 安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App，连接 Wi-Fi；
 3. 操作时间：北京时间 12:30 至次日凌晨 4:30；
 4. 激活 eSIM 后实体 SIM 卡作废。
+
 
 ### 步骤
 
@@ -153,6 +179,9 @@
 
 >注：上述步骤可能会有所变化，以[官网](https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff)为准。
 
+---
+
+
 ## eSIM 转实体卡
 
 操作时间：北京时间 12:30 至次日凌晨 4:30。
@@ -165,15 +194,7 @@
 
 >官网说明：[点击这里](https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim)
 
-## Wi-Fi Calling
-
-开启 [Wi-Fi Calling](https://www.giffgaff.com/international) 后资费会便宜，发短信 0.08 英镑/每条，打电话 0.03英镑/分钟。
-
-1. 全局英国 IP 网络；
-2. iPhone 设置→ App→  电话→  打开 Wi-Fi 通话；
-3. iPhone 设置→ 蜂窝网络→ 点击你的号码→ 语音与数据→ 选择 4G 或 5G。
-
->注：官网介绍（含视频演示）：[点击这里](https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte)
+---
 
 ## 其他
 
@@ -182,7 +203,9 @@
 - eSIM 相关问题：https://help.giffgaff.com/en/collections/626993-esim
 - 补卡：https://github.com/ssnhd/sim
 - 转入空卡：https://www.giffgaff.com/profile/details#simswap
+- Wi-Fi Calling：https://help.giffgaff.com/en/articles/258841-wifi-calling-and-volte
 - 官方客服：https://www.giffgaff.com/boiler-plate/contact
 - 官方条款：https://www.giffgaff.com/terms
 
 
+注：旅游专用，请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负！
