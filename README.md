@@ -5,6 +5,8 @@
 
 ## 激活
 
+友情提示：推荐中国时间中午 12 点后进行激活，这样激活等待时间较短。
+
 1. 先不要插卡，浏览器清空缓存重启，建议无痕模式，打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
 ![](https://i.imgur.com/uCsYIdQ.png)
 2. 输入邮箱，点击 **Next**。
