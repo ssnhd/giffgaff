@@ -1,7 +1,9 @@
 # 英国实体 SIM 卡 giffgaff 激活使用教程
 
 
-🇬🇧出售 GV 英国美国旅游 SIM 卡：https://github.com/ssnhd/sim
+🇬🇧**出售 GV 英国美国旅游 SIM 卡：https://github.com/ssnhd/sim**
+
+友情提示：近期有不法商家冒用本教程骗取用户后失联。购买请认准上方链接及人工客服 ID，本店仅支持人工客服购买，不提供任何网站下单渠道，谨防上当受骗。
 
 ## 激活
 
