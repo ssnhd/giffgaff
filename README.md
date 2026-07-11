@@ -7,9 +7,7 @@
 
 ## 激活
 
-友情提示：推荐中国时间中午 12 点后进行激活，这样激活等待时间较短。
-
-1. 先不要插卡，浏览器清空缓存重启，建议无痕模式，打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
+1. 不要插卡，电脑浏览器（建议无痕模式）打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
 ![](https://i.imgur.com/uCsYIdQ.png)
 2. 输入邮箱，点击 **Next**。
 ![](https://i.imgur.com/PUedxya.png)
@@ -38,7 +36,7 @@
 
 10. 出现的号码就是你的手机号（英国区号 +44）。
 ![](https://i.imgur.com/DRWLFVX.png)
-11. 回到主页，显示余额表示已激活，插卡等待有信号即可。\
+11. 回到主页，显示余额表示已激活，**插卡**等待有信号即可。\
     如果未显示余额表示还在激活中（一般 30 分钟至几小时，最慢不超过 24 小时），激活成功官方也会发邮箱通知你。
 ![](https://i.imgur.com/b9DOA4g.png)
 
