@@ -163,11 +163,10 @@
 
 ### 准备
 
-1. 支持 eSIM 的手机，例如外版 iPhone；
-2. 安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App，连接 Wi-Fi；
-3. 操作时间：北京时间 12:30 至次日凌晨 4:30；
-4. 激活 eSIM 后实体 SIM 卡作废。
-
+1. 支持 eSIM 的手机，例如美、日、港版无锁 iPhone；
+2. 安装好 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App；
+3. 手机连接 Wi-Fi；
+4. 操作时间：中国 12:30 至次日凌晨 4:30。
 
 ### 步骤
 
